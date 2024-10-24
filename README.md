@@ -265,6 +265,7 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 
 **OUTPUT:**
+
 ![MAD-OUTPUT-SS](https://github.com/user-attachments/assets/d480f948-a78a-43d4-b7a2-ab5d26146edb)
 ![MAD-OUTPUT-SS2](https://github.com/user-attachments/assets/508b4345-df6c-43a7-ad35-3b2331255806)
 
